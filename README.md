@@ -108,5 +108,9 @@ This project is licensed under the MIT License. See the LICENSE file for details
 ## Author
 
 - **Name:** 羅俊雄 (Luo Junxiong)  
-- **Student ID:** 409210061  
+- **Student ID:** 409210061
+
+## GitHub Repository
+
+The project repository is available at: [1A2B Game on GitHub](https://github.com/kdeppaei/1A2B-Game
 
